@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>알파 홈페이지</title>
 </head>
 <body>
-
+	<header>헤더 입니다
+	</header>
 </body>
 </html>
